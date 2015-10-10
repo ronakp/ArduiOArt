@@ -9,3 +9,4 @@ C:\Users\Ronak\VisualStudioProjects\ArduiOArt\ArduiOArt\obj\x86\Release\GujAThon
 C:\Users\Ronak\VisualStudioProjects\ArduiOArt\ArduiOArt\obj\x86\Release\GujAThon.application
 C:\Users\Ronak\VisualStudioProjects\ArduiOArt\ArduiOArt\obj\x86\Release\GujAThon.exe
 C:\Users\Ronak\VisualStudioProjects\ArduiOArt\ArduiOArt\obj\x86\Release\GujAThon.pdb
+C:\Users\Ronak\VisualStudioProjects\ArduiOArt\ArduiOArt\obj\x86\Release\ArduiOArt.csprojResolveAssemblyReference.cache

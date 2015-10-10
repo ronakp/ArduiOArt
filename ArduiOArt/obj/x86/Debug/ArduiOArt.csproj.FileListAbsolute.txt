@@ -31,3 +31,4 @@ C:\Users\Ronak\VisualStudioProjects\ArduiOArt\ArduiOArt\obj\x86\Debug\GujAThon.P
 C:\Users\Ronak\VisualStudioProjects\ArduiOArt\ArduiOArt\obj\x86\Debug\ArduiOArt.csproj.GenerateResource.Cache
 C:\Users\Ronak\VisualStudioProjects\ArduiOArt\ArduiOArt\obj\x86\Debug\GujAThon.exe.manifest
 C:\Users\Ronak\VisualStudioProjects\ArduiOArt\ArduiOArt\obj\x86\Debug\GujAThon.application
+C:\Users\Ronak\VisualStudioProjects\ArduiOArt\ArduiOArt\obj\x86\Debug\ArduiOArt.csprojResolveAssemblyReference.cache

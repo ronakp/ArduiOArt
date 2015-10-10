@@ -6,7 +6,6 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
-using System.Drawing;
 using System.IO;
 using System.IO.Ports;
 
@@ -55,14 +54,14 @@ namespace GujAThon
                     }
                 }
 
-                //System.IO.StreamWriter file = new System.IO.StreamWriter("c:\\Testing Debug.txt");
-                //file.WriteLine(txtFileContent);
+                System.IO.StreamWriter file = new System.IO.StreamWriter("R:\\Testing Debug.txt");
+                file.WriteLine(txtFileContent);
                 richTextBox1.AppendText("");
-                //file.Close();
+                file.Close();
                 richTextBox1.AppendText(".txt File Generated....\n");
                 openFileDialog1.Dispose();
                 richTextBox1.AppendText("Communication Commencing....\n");
-                SerialPort port = new SerialPort("COM3", 9600);
+                SerialPort port = new SerialPort("COM3", 9600); // Change according to Arduino Port
                 port.Open();
                 richTextBox1.AppendText("Communication Start....\n");
                 char[] inbuf = new char[50];
